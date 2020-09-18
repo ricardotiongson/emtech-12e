@@ -1,0 +1,12 @@
+ion-content {
+  background: linear-gradient(to bottom, #0da2ff, #bfe6ff);
+}
+
+p {
+  font-family: Arial;
+  text-align: justify;
+}
+
+ion-item {
+  background-color:#0da2ff, #bfe6ff)
+}
